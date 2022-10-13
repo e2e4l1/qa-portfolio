@@ -30,5 +30,4 @@ This should be fixed in next version.
 Best regards
 Anders Carlsen
 
-Tacit Dynamics
-www.tacit.dk - [Google Play](https://play.google.com/store/apps/developer?id=Tacit%20Dynamics) - [Support](https://www.tacit.dk/support)
+[Tacit Dynamics](www.tacit.dk) – [GooglePlay](https://play.google.com/store/apps/developer?id=Tacit%20Dynamics/) – [Support](https://www.tacit.dk/support/)
